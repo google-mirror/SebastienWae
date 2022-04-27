@@ -13,7 +13,7 @@ jobs:
           user: SebastienWae
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
+          config_timezone: Asia/Shanghai
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_introduction: yes
@@ -33,4 +33,4 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          commits_authoring: Sebastien Waegeneire, sebastien@waegeneire.com
+          commits_authoring: google-mirror, google-mirror@google.com
